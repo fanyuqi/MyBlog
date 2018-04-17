@@ -5,9 +5,9 @@
   <subtitle>范钰祺的博客</subtitle>
   <link href="/MyBlog/atom.xml" rel="self"/>
   
-  <link href="http://fanyuqi.cc/"/>
+  <link href="http://fanyuqi.cc/MyBlog/"/>
   <updated>2018-04-16T17:26:18.379Z</updated>
-  <id>http://fanyuqi.cc/</id>
+  <id>http://fanyuqi.cc/MyBlog/</id>
   
   <author>
     <name>Ritchie</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://fanyuqi.cc/2018/04/17/hello-world/"/>
-    <id>http://fanyuqi.cc/2018/04/17/hello-world/</id>
+    <link href="http://fanyuqi.cc/MyBlog/2018/04/17/hello-world/"/>
+    <id>http://fanyuqi.cc/MyBlog/2018/04/17/hello-world/</id>
     <published>2018-04-16T17:26:18.365Z</published>
     <updated>2018-04-16T17:26:18.379Z</updated>
     
@@ -35,15 +35,15 @@
     
     </summary>
     
-      <category term="PHP" scheme="http://fanyuqi.cc/categories/PHP/"/>
+      <category term="PHP" scheme="http://fanyuqi.cc/MyBlog/categories/PHP/"/>
     
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://fanyuqi.cc/2018/04/17/hello-worlds/"/>
-    <id>http://fanyuqi.cc/2018/04/17/hello-worlds/</id>
+    <link href="http://fanyuqi.cc/MyBlog/2018/04/17/hello-worlds/"/>
+    <id>http://fanyuqi.cc/MyBlog/2018/04/17/hello-worlds/</id>
     <published>2018-04-16T17:06:06.073Z</published>
     <updated>2018-04-16T15:18:10.115Z</updated>
     
@@ -59,10 +59,10 @@
     
     </summary>
     
-      <category term="PHP" scheme="http://fanyuqi.cc/categories/PHP/"/>
+      <category term="PHP" scheme="http://fanyuqi.cc/MyBlog/categories/PHP/"/>
     
     
-      <category term="PHP" scheme="http://fanyuqi.cc/tags/PHP/"/>
+      <category term="PHP" scheme="http://fanyuqi.cc/MyBlog/tags/PHP/"/>
     
   </entry>
   
