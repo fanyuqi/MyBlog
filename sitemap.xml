@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://fanyuqi.cc/guestbook/index.html</loc>
+    <loc>http://fanyuqi.cc/2018/04/22/hello-world/</loc>
     
-    <lastmod>2018-04-18T16:14:58.963Z</lastmod>
+    <lastmod>2018-04-21T16:03:33.193Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://fanyuqi.cc/about/index.html</loc>
     
-    <lastmod>2018-04-18T09:18:19.572Z</lastmod>
+    <lastmod>2018-04-21T12:37:38.725Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://fanyuqi.cc/2018/04/17/hello-world/</loc>
+    <loc>http://fanyuqi.cc/guestbook/index.html</loc>
     
-    <lastmod>2018-04-16T17:26:18.379Z</lastmod>
+    <lastmod>2018-04-18T16:14:58.963Z</lastmod>
     
   </url>
   
@@ -40,13 +40,6 @@
     <loc>http://fanyuqi.cc/categories/index.html</loc>
     
     <lastmod>2018-04-16T15:24:05.874Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://fanyuqi.cc/2018/04/17/hello-worlds/</loc>
-    
-    <lastmod>2018-04-16T15:18:10.115Z</lastmod>
     
   </url>
   
