@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://fanyuqi.cc/"/>
-  <updated>2018-04-21T16:03:33.193Z</updated>
+  <updated>2018-05-09T16:22:43.589Z</updated>
   <id>http://fanyuqi.cc/</id>
   
   <author>
@@ -17,13 +17,35 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>中学知识</title>
+    <link href="http://fanyuqi.cc/2018/05/07/%E4%B8%AD%E5%AD%A6%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86/"/>
+    <id>http://fanyuqi.cc/2018/05/07/中学预备知识/</id>
+    <published>2018-05-06T16:24:17.639Z</published>
+    <updated>2018-05-09T16:22:43.589Z</updated>
+    
+    <content type="html"><![CDATA[<p>中学阶段数学知识储备。</p><a id="more"></a><h4 id="邻域">1.邻域</h4><h4 id="初等函数">2.初等函数</h4><p>（1） 奇偶性——<span class="math inline">\(y=f(x)(x\in D)\)</span>,D关于原点对称，</p><p><span class="math inline">\(\left\{ \begin{array}{c}f(x)=f(-x)\Rightarrow &amp;\text{f(x)是奇函数}\\ f(x)=-f(-x) \Rightarrow&amp;\text{f(x)是偶函数} \end{array}\right.\)</span></p><p>（2）反函数——<span class="math inline">\(y=f(x)(x\in D)\)</span>,D关于原点对称，则<span class="math inline">\(y=f(x)\Rightarrow x=\phi(y)\)</span>,注意不需要再次替换变量写成<span class="math inline">\(y=f(x)\)</span>的形式。</p><p><strong>eg(0506-1): <span class="math inline">\(y=ln(x+\sqrt[2]{x^2+1})\)</span>,（1）、判断奇偶性（2）、求反函数</strong></p><p>（3）有界性——<span class="math inline">\(y=f(x),(x\in D)\)</span>.若<span class="math inline">\(\exists M&gt;0,\forall x\in D\)</span><code>有</code><span class="math inline">\(|f(x)|\leq M\)</span><code>.则称</code><span class="math inline">\(f(x)\)</span>在D上有界。</p><p><span class="math inline">\(f(x)\geq M_1\)</span>.称<span class="math inline">\(f(x)\)</span>有下界，<span class="math inline">\(f(x)\leq M_2\)</span>,称<span class="math inline">\(f(x)\)</span>有上界</p><p>如：<span class="math inline">\(-2\leq f(x)\leq3 \Rightarrow|f(x)|\leq3\)</span>,即使上下界不一致，也是有界。</p><p>（4）增减性——<span class="math inline">\(y=f(x)(x\in D)\)</span>,若<span class="math inline">\(\forall x_1,x_2 \in D,x_1&lt;x_2\)</span>，有<span class="math inline">\(f(x_1)&lt;f(x_2)\)</span>，称<span class="math inline">\(y=f(x)\)</span>在<span class="math inline">\(x\in D\)</span>上 严格递增。</p><h4 id="几个特殊函数">3.几个特殊函数</h4><p>（1）符号函数。<span class="math inline">\(sgn(x)=\begin{cases} -1,&amp;{x&lt;0}\\0,&amp;{x=0}\\1,&amp;{x&gt;0}\\ \end{cases}\)</span>，如：<span class="math inline">\(|x|=x\cdot sgn(x)\)</span>。</p><p>（2）取整函数。<span class="math inline">\([x]=\begin{cases} k,&amp;{x=k}\\k-1,&amp;{k-1&lt;x&lt;k}\\ \end{cases}\)</span>（<span class="math inline">\(k\in Z\)</span>）</p><p><strong>注：</strong></p><ol type="1"><li><span class="math inline">\([x]\leq x\)</span>;</li><li>​<span class="math inline">\([x+m]=[x]+m\)</span>,(<span class="math inline">\(m\in Z\)</span>);<br></li><li><span class="math inline">\([x+y]\not=[x]+[y]\)</span></li></ol><p>（3）Dirichlet函数。<span class="math inline">\(D(x)= \begin{cases} 1, &amp;\text{$x\in \theta$}\\ 0, &amp;\text{$x\in R \backslash\theta$} \end{cases}\)</span></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;中学阶段数学知识储备。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="数学" scheme="http://fanyuqi.cc/categories/%E6%95%B0%E5%AD%A6/"/>
+    
+    
+      <category term="中学数学" scheme="http://fanyuqi.cc/tags/%E4%B8%AD%E5%AD%A6%E6%95%B0%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="http://fanyuqi.cc/2018/04/22/hello-world/"/>
     <id>http://fanyuqi.cc/2018/04/22/hello-world/</id>
     <published>2018-04-21T16:03:28.032Z</published>
     <updated>2018-04-21T16:03:33.193Z</updated>
     
-    <content type="html"><![CDATA[<p>这是博客建成后自动生成的第一篇博客，就保存下来吧，留作纪念。</p><a id="more"></a><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><!-- more --><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>这是博客建成后自动生成的第一篇博客，就保存下来吧，留作纪念。</p><a id="more"></a><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="quick-start">Quick Start</h2><h3 id="create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><!-- more --><h3 id="generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
     <summary type="html">
     

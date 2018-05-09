@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[中学知识]]></title>
+    <url>%2F2018%2F05%2F07%2F%E4%B8%AD%E5%AD%A6%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86%2F</url>
+    <content type="text"><![CDATA[中学阶段数学知识储备。 1.邻域 2.初等函数 （1） 奇偶性——\(y=f(x)(x\in D)\),D关于原点对称， \(\left\{ \begin{array}{c}f(x)=f(-x)\Rightarrow &amp;\text{f(x)是奇函数}\\ f(x)=-f(-x) \Rightarrow&amp;\text{f(x)是偶函数} \end{array}\right.\) （2）反函数——\(y=f(x)(x\in D)\),D关于原点对称，则\(y=f(x)\Rightarrow x=\phi(y)\),注意不需要再次替换变量写成\(y=f(x)\)的形式。 eg(0506-1): \(y=ln(x+\sqrt[2]{x^2+1})\),（1）、判断奇偶性（2）、求反函数 （3）有界性——\(y=f(x),(x\in D)\).若\(\exists M&gt;0,\forall x\in D\)有\(|f(x)|\leq M\).则称\(f(x)\)在D上有界。 \(f(x)\geq M_1\).称\(f(x)\)有下界，\(f(x)\leq M_2\),称\(f(x)\)有上界 如：\(-2\leq f(x)\leq3 \Rightarrow|f(x)|\leq3\),即使上下界不一致，也是有界。 （4）增减性——\(y=f(x)(x\in D)\),若\(\forall x_1,x_2 \in D,x_1&lt;x_2\)，有\(f(x_1)&lt;f(x_2)\)，称\(y=f(x)\)在\(x\in D\)上 严格递增。 3.几个特殊函数 （1）符号函数。\(sgn(x)=\begin{cases} -1,&amp;{x&lt;0}\\0,&amp;{x=0}\\1,&amp;{x&gt;0}\\ \end{cases}\)，如：\(|x|=x\cdot sgn(x)\)。 （2）取整函数。\([x]=\begin{cases} k,&amp;{x=k}\\k-1,&amp;{k-1&lt;x&lt;k}\\ \end{cases}\)（\(k\in Z\)） 注： \([x]\leq x\); ​\([x+m]=[x]+m\),(\(m\in Z\)); \([x+y]\not=[x]+[y]\) （3）Dirichlet函数。\(D(x)= \begin{cases} 1, &amp;\text{$x\in \theta$}\\ 0, &amp;\text{$x\in R \backslash\theta$} \end{cases}\)]]></content>
+      <categories>
+        <category>数学</category>
+      </categories>
+      <tags>
+        <tag>中学数学</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2018%2F04%2F22%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[这是博客建成后自动生成的第一篇博客，就保存下来吧，留作纪念。 Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <content type="text"><![CDATA[这是博客建成后自动生成的第一篇博客，就保存下来吧，留作纪念。 Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick Start Create a new post 1$ hexo new "My New Post" More info: Writing Run server 1$ hexo server More info: Server Generate static files 1$ hexo generate More info: Generating Deploy to remote sites 1$ hexo deploy More info: Deployment]]></content>
       <tags>
         <tag>HelloWorld</tag>
       </tags>
